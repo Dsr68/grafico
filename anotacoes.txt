@@ -1,0 +1,3 @@
+- Usar gcc <nome_do_arquivo>.c -o -lglut -lGL -lncurses
+  Para compilar. Isso faz link simbólico com
+  as bibliotecas desejadas.
